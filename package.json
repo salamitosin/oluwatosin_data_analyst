@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages-d build",
     "build": "react-scripts build"
   },
   "eslintConfig": {
@@ -24,7 +24,7 @@
     ]
   },
   "browserslist": {
-    "production": [
+    "production": [ 
       ">0.2%",
       "not dead",
       "not op_mini all"
@@ -34,8 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
