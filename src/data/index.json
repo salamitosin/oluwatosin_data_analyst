@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/Feather-pen-111.jpg",
+      "title": "Data Analytics",
+      "description": "Proficient in data analytics and transforming raw data into actionable insights for informed decision-making"
+    },
+    {
+      "id": "2",
+      "src": "./img/cloud-computing.jpg",
+      "title": "Cloud Compute",
+      "description": "Leveraging cloud platforms to store, manage, and analyze data efficiently, enhancing scalability and accessibility for data analysis tasks."
+    },
+    {
+      "id": "3",
+      "src": "./img/natural-language-processing.jpg",
+      "title": "NLP",
+      "description": "Unveiling insights through the power of NLP and sentiment analysis for data-driven decision-making"
+    },
+    {
+      "id": "4",
+      "src": "./img/Parallel Computing.jpg",
+      "title": "Parrallel Computing",
+      "description": "Unlocking speed and scalability and Embracing parallel computing for data analysis."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-img-2.png",
+      "title": "Excel Dashboard",
+      "description": "Our project relies heavily on dashboards to convey data insights effectively. To make them more dynamic and interactive, we've introduced slicers...",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-img-1.png",
+      "title": "Tableau Dashboard",
+      "description": "With Tableau, users can gain valuable insights from their data through interactive visualizations, enabling them to explore trends, patterns, and relationships in a dynamic and intuitive manner...",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-1.png",
+      "title": "R and Python Code",
+      "description": "A wide range of data analysis challenges can be resolved with the help of R and Python's adaptability, statistical prowess, integration with other tools, flexibility, scalability, and visualization skills.",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Power BI Dashboard",
+      "description": "Power BI with user-friendly interface, extensive data connectivity, advanced visualizations, real-time updates, natural language querying, collaboration features, scalability, and robust security.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-img.png",
+      "description": "The data analysis has yielded useful insights that have guided our marketing initiatives. Since putting your suggestions into practice, we've noticed a discernible rise in consumer engagement and conversions.",
+      "author_name": "Mr Sunny A. Ewiolo",
+      "author_designation": "Page2Group"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-img-2.png",
+      "description": "We have been able to more successfully customize our product offerings thanks to the thorough representation of consumer activity patterns. Our consumers have responded well to us as a result, praising the customized experience.",
+      "author_name": " Eng Tobiloba Komolafe",
+      "author_designation": "Automedics Ikeja"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-img-1.png",
+      "description": "Thanks to your predictive modeling efforts, we've been able to anticipate customer needs more accurately and proactively address issues before they arise. This proactive approach has led to higher customer satisfaction scores and loyalty.",
+      "author_name": "Oluwafemi Salami",
+      "author_designation": " Lecturer FUTA"
+    }
+  ]
+}
